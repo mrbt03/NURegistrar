@@ -1,4 +1,4 @@
-# NURegistrar Class Enrollment Forecasting Project
+# NURegistrar Class Enrollment Forecasting Project (Capstone Project)
 
 ## Overview
 
@@ -35,8 +35,8 @@ XGBoost was identified as the best performing model due to its ability to captur
 - All programming files for transparency and reproducibility.
 
 ## Links
-- [Interactive Dashboard](#) (link to be added)
+- [Interactive Dashboard](https://nuregistrarforecasting.web.app/dashboard)
 - [Jupyter Notebook](#) (link to be added)
 
 ## Contact
-For any questions or further information, please contact [Your Name] at [Your Email].
+For any questions or further information, please contact Mark Ruiz at markruiz2025@u.northwestern.edu.
