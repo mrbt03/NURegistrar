@@ -38,5 +38,7 @@ XGBoost was identified as the best performing model due to its ability to captur
 - [Interactive Dashboard](https://nuregistrarforecasting.web.app/dashboard)
 - [Jupyter Notebook](https://github.com/mrbt03/NURegistrar/blob/main/XGBoostTest.ipynb)
 - [Final Report](https://github.com/mrbt03/NURegistrar/blob/c4be6ab30852b7020d7e9c8bfc154afe6e593736/NU%20Registrar%20Final%20Report.pdf)
-## Contact
-For any questions or further information, please contact Mark Ruiz at markruiz2025@u.northwestern.edu.
+  
+## Credit
+The code provided in this repository reflects my significant personal contributions to the capstone project, accounting for the vast majority of the model development. A fellow group member was responsible for the front-end portion of the work. For any questions or additional details, please reach out to Mark Ruiz at markruiz2025@u.northwestern.edu.
+
