@@ -40,5 +40,5 @@ XGBoost was identified as the best performing model due to its ability to captur
 - [Final Report](https://github.com/mrbt03/NURegistrar/blob/c4be6ab30852b7020d7e9c8bfc154afe6e593736/NU%20Registrar%20Final%20Report.pdf)
   
 ## Credit
-The code provided in this repository reflects my significant personal contributions to the capstone project, accounting for the vast majority of the model development. A fellow group member was responsible for the front-end portion of the work. For any questions or additional details, please reach out to Mark Ruiz at markruiz2025@u.northwestern.edu.
+The code in this repository represents my personal contributions to the capstone project, encompassing the majority of the model development and the API-based model inference pipeline. A fellow group member was responsible for the front-end portion of the work. For any questions or additional details, please reach out to Mark Ruiz at markruiz2025@u.northwestern.edu.
 
